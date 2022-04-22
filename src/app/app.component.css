@@ -1,0 +1,51 @@
+.studentComp {
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-color: blueviolet;
+    border-style: solid;
+}
+
+.textComp {
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-color: #597053;
+    border-style: solid;
+}
+
+.classBindComp {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-color: blue;
+    border-style: solid;
+}
+
+.styleBinding {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-color: blue;
+    border-style: solid;
+}
+
+.eventBinging {
+    background-color: #ffffff;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border-color: red;
+    border-style: solid;
+}
+
+.componentbg {
+    background-color: green;
+    padding: 10px;
+    font-weight: 800;
+    color: #ffffff;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
